@@ -1,0 +1,249 @@
+[
+  {
+    "id": 1,
+    "jobTitle": "Social Media Manager",
+    "jobDescription": "Social Media Managers oversee an organizations social media presence. They create and schedule content, engage with followers, and analyze social media metrics to drive brand awareness and engagement.",
+    "skills": [
+      "Social Media",
+      "Content Creation",
+      "Social Media Analytics"
+    ],
+    "categories": [
+      "Marketing",
+      "Analytics"
+    ],
+    "classification": {
+      "Social Media": "Marketing",
+      "Content Creation": "Marketing",
+      "Social Media Analytics": "Analytics"
+    }
+  },
+  {
+    "id": 2,
+    "jobTitle": "Frontend Web Developer",
+    "jobDescription": "Frontend Web Developers design and implement user interfaces for websites, ensuring they are visually appealing and user-friendly. They collaborate with designers and backend developers to create seamless web experiences for users.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "UI Design",
+      "Frontend Development"
+    ],
+    "categories": [
+      "Web Development",
+      "Programming",
+      "UI/UX"
+    ],
+    "classification": {
+      "HTML": "Web Development",
+      "CSS": "Web Development",
+      "JavaScript": "Programming",
+      "UI Design": "UI/UX",
+      "Frontend Development": "Web Development"
+    }
+  },
+  {
+    "id": 3,
+    "jobTitle": "Quality Assurance Analyst",
+    "jobDescription": "A Quality Assurance Analyst tests software and products to ensure they meet quality standards. They identify defects, report issues, and work with development teams to resolve problems.",
+    "skills": [
+      "Software Testing",
+      "Quality Assurance",
+      "Bug Tracking",
+      "Test Case Design"
+    ],
+    "categories": [
+      "Testing",
+      "Software Development"
+    ],
+    "classification": {
+      "Software Testing": "Testing",
+      "Quality Assurance": "Testing",
+      "Bug Tracking": "Software Development",
+      "Test Case Design": "Testing"
+    }
+  },
+  {
+    "id": 4,
+    "jobTitle": "Wireless Network Engineer",
+    "jobDescription": "Wireless Network Engineers design, implement, and maintain wireless network solutions. They optimize wireless connectivity, troubleshoot issues, and ensure reliable and secure wireless communications.",
+    "skills": [
+      "Networking",
+      "Wireless Networking",
+      "Network Security",
+      "Network Troubleshooting"
+    ],
+    "categories": [
+      "Networking",
+      "Cybersecurity"
+    ],
+    "classification": {
+      "Networking": "Networking",
+      "Wireless Networking": "Networking",
+      "Network Security": "Cybersecurity",
+      "Network Troubleshooting": "Networking"
+    }
+  },
+  {
+    "id": 5,
+    "jobTitle": "Backend Developer",
+    "jobDescription": "A Backend Developer is tasked with building and maintaining the server-side logic and database infrastructure of web applications. They work on the core functionality, data storage, and server communication to ensure the application runs smoothly and efficiently.",
+    "skills": [
+      "Backend Development",
+      "Database",
+      "Server-Side Development",
+      "API",
+      "Data Storage"
+    ],
+    "categories": [
+      "Web Development",
+      "Database",
+      "Programming"
+    ],
+    "classification": {
+      "Backend Development": "Web Development",
+      "Database": "Database",
+      "Server-Side Development": "Programming",
+      "API": "Web Development",
+      "Data Storage": "Database"
+    }
+  },
+  {
+    "id": 6,
+    "jobTitle": "Business Intelligence Analyst",
+    "jobDescription": "Business Intelligence Analysts gather and analyze data to provide valuable insights to support decision-making within an organization. They create reports, dashboards, and data visualizations to help stakeholders understand trends, patterns, and opportunities in the data.",
+    "skills": [
+      "Business Intelligence",
+      "Data Analysis",
+      "Data Visualization",
+      "Reporting",
+      "Dashboards"
+    ],
+    "categories": [
+      "Data Analytics",
+      "Business Intelligence"
+    ],
+    "classification": {
+      "Business Intelligence": "Business Intelligence",
+      "Data Analysis": "Data Analytics",
+      "Data Visualization": "Data Analytics",
+      "Reporting": "Business Intelligence",
+      "Dashboards": "Business Intelligence"
+    }
+  },
+  {
+    "id": 7,
+    "jobTitle": "Database Developer",
+    "jobDescription": "A Database Developer designs, develops, and maintains databases. They create efficient data structures, write queries, and ensure data security and integrity.",
+    "skills": [
+      "SQL",
+      "Database Development",
+      "Database Design",
+      "Data Security",
+      "Data Integrity"
+    ],
+    "categories": [
+      "Database",
+      "Programming",
+      "Cybersecurity"
+    ],
+    "classification": {
+      "SQL": "Database",
+      "Database Development": "Database",
+      "Database Design": "Database",
+      "Data Security": "Cybersecurity",
+      "Data Integrity": "Database"
+    }
+  },
+  {
+    "id": 8,
+    "jobTitle": "Data Architect",
+    "jobDescription": "A Data Architect designs and manages data infrastructure, ensuring data availability, security, and integrity while aligning data systems with business goals and requirements.",
+    "skills": [
+      "Data Architecture",
+      "Data Infrastructure",
+      "Database",
+      "Data Security",
+      "Data Management"
+    ],
+    "categories": [
+      "Data Engineering",
+      "Database",
+      "Cybersecurity"
+    ],
+    "classification": {
+      "Data Architecture": "Data Engineering",
+      "Data Infrastructure": "Data Engineering",
+      "Database": "Database",
+      "Data Security": "Cybersecurity",
+      "Data Management": "Data Engineering"
+    }
+  },
+  {
+    "id": 9,
+    "jobTitle": "Automation Test Engineer",
+    "jobDescription": "Automation Test Engineers develop automated test scripts and frameworks to streamline and enhance the testing process. They focus on automating repetitive tests to improve efficiency and maintain test consistency.",
+    "skills": [
+      "Automation Testing",
+      "Test Automation",
+      "Test Scripts",
+      "Testing Frameworks"
+    ],
+    "categories": [
+      "Testing",
+      "Software Development"
+    ],
+    "classification": {
+      "Automation Testing": "Testing",
+      "Test Automation": "Testing",
+      "Test Scripts": "Programming",
+      "Testing Frameworks": "Testing"
+    }
+  },
+  {
+    "id": 10,
+    "jobTitle": "Network Security Engineer",
+    "jobDescription": "Network Security Engineers focus on protecting network systems from cyber threats. They implement security measures, monitor network traffic, and respond to security incidents to safeguard the organizations data.",
+    "skills": [
+      "Network Security",
+      "Cybersecurity",
+      "Network Monitoring",
+      "Threat Detection",
+      "Incident Response"
+    ],
+    "categories": [
+      "Cybersecurity",
+      "Networking"
+    ],
+    "classification": {
+      "Network Security": "Cybersecurity",
+      "Cybersecurity": "Cybersecurity",
+      "Network Monitoring": "Networking",
+      "Threat Detection": "Cybersecurity",
+      "Incident Response": "Cybersecurity"
+    }
+  },
+  {
+    "id": 11,
+    "jobTitle": "SQL Database Developer",
+    "jobDescription": "SQL Database Developers design, implement, and maintain relational databases using SQL. They write queries, optimize database performance, and ensure data integrity and security.",
+    "skills": [
+      "SQL",
+      "Relational Database",
+      "Database Design",
+      "Query Optimization",
+      "Database Security"
+    ],
+    "categories": [
+      "Database",
+      "Programming"
+    ],
+    "classification": {
+      "SQL": "Database",
+      "Relational Database": "Database",
+      "Database Design": "Database",
+      "Query Optimization": "Database",
+      "Database Security": "Cybersecurity"
+    }
+  }
+]
